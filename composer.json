@@ -1,7 +1,7 @@
 {
     "name": "thanadonexe/kafka-queue",
     "require": {
-        "laravel/framework": "^9.7"
+        "laravel/framework": "^8.5 || ^9.7"
     },
     "autoload": {
         "psr-4": {
@@ -11,7 +11,7 @@
     "authors": [
         {
             "name": "Thanadon Songsuittipong",
-            "email": "thanadon@enres.co"
+            "email": "thanadon.exe@gmail.com"
         }
     ]
 }
