@@ -1,0 +1,17 @@
+{
+    "name": "thanadonexe/kafka-queue",
+    "require": {
+        "laravel/framework": "^9.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Thanadonexe\\KafkaQueue\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thanadon Songsuittipong",
+            "email": "thanadon@enres.co"
+        }
+    ]
+}
