@@ -1,7 +1,7 @@
 {
     "name": "thanadonexe/kafka-queue",
     "require": {
-        "laravel/framework": "^8.5|^9.0"
+        "laravel/framework": "^8.5|^9.2"
     },
     "autoload": {
         "psr-4": {
